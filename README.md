@@ -102,6 +102,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-paudelronish@gmail.com
+Email: paudelronish@gmail.com
 
 Project Link: [https://github.com/ronishpaudel/snake-game](https://github.com/yourusername/snake-game)
