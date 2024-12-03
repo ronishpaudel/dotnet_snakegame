@@ -102,6 +102,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+paudelronish@gmail.com
 
-Project Link: [https://github.com/yourusername/snake-game](https://github.com/yourusername/snake-game)
+Project Link: [https://github.com/ronishpaudel/snake-game](https://github.com/yourusername/snake-game)
