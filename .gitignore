@@ -1,0 +1,59 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Compiled source
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Application files
+appsettings*.json
+appsettings*.Development.json
+
+# Azure Functions
+local.settings.json
+
+# IIS files
+/.vs/
+*.vspscc
+*.vssscc
+
+# Rider files
+.idea/
+*.idea/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Windows image file caches
+*.iobj
+*.ilk
+
+# Visual Studio profiler
+*.psess
+*.vspx
+
+# MacOS system files
+.DS_Store
+
+# Static files
+wwwroot/
