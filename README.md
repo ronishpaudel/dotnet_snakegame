@@ -1,4 +1,4 @@
-# Snake Game Web Application
+# Snake Game Web App
 
 ## Overview
 
