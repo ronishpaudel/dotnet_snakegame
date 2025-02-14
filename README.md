@@ -61,24 +61,7 @@ dotnet run
 - Avoid hitting walls or the snake's own body
 - Game speed increases every 5 points
 
-## Project Structure
 
-```
-snake-game/
-│
-├── Controllers/
-├── Pages/
-│   └── Index.cshtml
-│   └── Index.cshtml.cs
-│
-├── wwwroot/
-│   ├── css/
-│   │   └── snake.css
-│   └── js/
-│       └── snake.js
-│
-└── README.md
-```
 
 ## Customization
 
